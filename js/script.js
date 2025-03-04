@@ -29,7 +29,7 @@ for (let button of ringButtons) {
 
 
         const productImage = document.getElementById('product-image');
-        productImage.src = `../images/${btnColor}.png`
+        productImage.src = `./images/${btnColor}.png`
     });
 
 
